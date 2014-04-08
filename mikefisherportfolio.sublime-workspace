@@ -1,0 +1,927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Toolb",
+				"ToolbarItem"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"createT",
+				"createToolbarItems"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"cre",
+				"createElement  (function)"
+			],
+			[
+				"def",
+				"defineProperties"
+			],
+			[
+				"com",
+				"com-basic	Idiomatic CSS - Basic Comment"
+			],
+			[
+				"getE",
+				"getElementsByTagName  (function)"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"he",
+				"header  (element)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cs",
+				"com-section	Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"list-st",
+				"list-style-image"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"im",
+				"img  (element)"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"cl",
+				"click	click"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"bar",
+				"barHeight"
+			],
+			[
+				"get",
+				"get	get"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"red",
+				"red_color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"animate",
+				"animateShapes"
+			],
+			[
+				"ani",
+				"animateShapes"
+			],
+			[
+				"wrap",
+				"wrapInner	wrapInner"
+			],
+			[
+				"tri",
+				"triangle"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"caro",
+				"carousel-indicators"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"carou",
+				"carousel-caption"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"mouse",
+				"mouseenter	mouseenter"
+			],
+			[
+				"fil",
+				"filter	.filter()"
+			],
+			[
+				"json",
+				"jQuery.getJSON	jQuery.getJSON"
+			],
+			[
+				"ajax",
+				"ajaxsetup	$.ajaxSetup()"
+			],
+			[
+				"aj",
+				"ajaxstop	$.ajaxStop()"
+			],
+			[
+				"jaa",
+				"jQuery.ajax	jQuery.ajax"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 20896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mikefisherportfolio.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 15727,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mikefisherportfolio.sublime-project",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"prod",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"test",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"pro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"boil",
+				"Snippet: boilerplate"
+			],
+			[
+				"norm",
+				"Snippet: normalize"
+			],
+			[
+				"pref",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brwos",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"beau",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"bea",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: boilerplate"
+			],
+			[
+				"bros",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mike/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/mike/Dev/mikefisher.io/mikefisherportfolio.sublime-project",
+		"/Applications/MAMP/Library/bin/envvars",
+		"/Users/mike/Downloads/Torrents/Tuts+/TutsPlus - Object-Oriented JavaScript/1-Object-Oriented JavaScript/10 - Exercise 02 Refactoring the Toolbar.mp4",
+		"/Users/mike/Downloads/Torrents/Tuts+/TutsPlus - Object-Oriented JavaScript/Project Files/Lesson 05/index.html",
+		"/Users/mike/dev/toolbar/index.html",
+		"/Users/mike/Dev/ajaxscript/js/main.js",
+		"/Users/mike/Dev/ajaxscript/files/ajax.xml",
+		"/Users/mike/Dev/ajaxscript/index.html",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/mike/Dev/ajaxscript/files/ajax.txt",
+		"/Users/mike/Dev/vwealthfoundation/js/foundation/foundation.alert.js",
+		"/Users/mike/Dev/vwealthfoundation/js/foundation/foundation.accordion.js",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mike/Dev/vwealthfoundation/img/bargraph.png",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/Snippets/image-replacement.sublime-snippet",
+		"/Users/mike/Dev/visualizewealth/img/mainlogo.png",
+		"/Users/mike/Dev/visualizewealth/stylesheets/screen.css",
+		"/Users/mike/Dev/visualizewealth/sass/screen.scss",
+		"/Users/mike/Dev/visualizewealth/sass/_theme.scss",
+		"/Users/mike/Dev/visualizewealth/sass/_base.scss",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/Snippets/normalize.sublime-snippet",
+		"/Users/mike/Dev/visualizewealth/sass/_reset.scss",
+		"/Users/mike/Dev/visualizewealth/css/screen.css",
+		"/Users/mike/Dev/visualizewealth/sass/_theme.css",
+		"/Users/mike/Downloads/initializr/css/main.css",
+		"/Users/mike/Downloads/initializr/index.html",
+		"/Users/mike/Dev/visualizewealth/sass/_layout.scss",
+		"/Users/mike/Dev/visualizewealth/sass/_state.scss",
+		"/Users/mike/Dev/visualizewealth/sass/_module.scss",
+		"/Users/mike/Dev/visualizewealth/css/_module.scss",
+		"/Users/mike/Dev/visualizewealth/css",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/mike/Dev/d3class/wonk.css",
+		"/Users/mike/Desktop/alfred-workflows/README.md",
+		"/Users/mike/Dev/brandwizard/Henkel/dev/src/ToolKit.WebUI/app/asset/asset_edit.aspx",
+		"/Users/mike/Dev/sassdemo/index.html",
+		"/Users/mike/Dev/sassdemo/css/style.scss",
+		"/Users/mike/index.htl",
+		"/Users/mike/Dev/sassclass/config.rb",
+		"/Users/mike/Dev/sassclass/sass/screen.scss",
+		"/Users/mike/Dev/sassclass/sass/_normalize.scss",
+		"/Users/mike/Dev/sassclass/sass/variables.scss",
+		"/Users/mike/Dev/sassclass/sass/style.scss",
+		"/Users/mike/Dev/sassclass/css/style.css",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/normalize.sublime-snippet",
+		"/Users/mike/Dev/sassclass/sass/normalize.scss",
+		"/Users/mike/Dev/sassclass/sass/normalize.sass",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/Syntax Highlighting for Sass/Preferences/Comments.tmPreferences",
+		"/Users/mike/Dev/sassclass/test.scss",
+		"/Users/mike/Desktop/CSS/style.css",
+		"/Users/mike/Desktop/CSS/index.html",
+		"/Users/mike/Downloads/Torrents/Tuts+/Tutsplus - Bootstrap for Web Design/Source Files/Lessons/js/bootstrap.js",
+		"/Users/mike/Desktop/ComplexTest copy/scripts.js",
+		"/Users/mike/Desktop/ComplexTest copy/style.css",
+		"/Users/mike/Desktop/ComplexTest/scripts.js",
+		"/Users/mike/Desktop/ComplexTest copy/index.html",
+		"/Users/mike/Desktop/ComplexTest/style.css",
+		"/Users/mike/Downloads/html5-boilerplate-4.3.0 2/index.html",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/boilerplate.sublime-snippet",
+		"/Users/mike/Dev/ammirati-bootstrap/css/style.css-backup",
+		"/Users/mike/Dev/ammirati-bootstrap/css/style.css",
+		"/Users/mike/Dev/ammirati-bootstrap/index.html",
+		"/Users/mike/Dev/ammirati-bootstrap/css/bootstrap.css",
+		"/Users/mike/Dev/ammirati-bootstrap/js/scripts.js",
+		"/Users/mike/Dev/ammirati-bootstrap/test.html",
+		"/Users/mike/Dev/ammirati/css/normalize.css",
+		"/Users/mike/Dev/ammirati/js/scripts.js",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/bootstrap.sublime-snippet",
+		"/Users/mike/Dev/mikefisher.io/css/style.less",
+		"/tmp/subl stdin Higxsg.txt",
+		"/tmp/subl stdin EBmTmG.txt",
+		"/Users/mike/Desktop/ComplexTest/index.html",
+		"/Users/mike/Dev/mikefisher.io/index.html",
+		"/Users/mike/Desktop/tutsjquery/index.html",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/mike/Desktop/tutsjquery/js/scripts.js",
+		"/Users/mike/Desktop/tutsjquery/night.css",
+		"/Users/mike/Desktop/tutsjquery/day.css",
+		"/Users/mike/Desktop/tutsjquery/css/styles.css",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/mike/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"el",
+			"ed",
+			"_",
+			"el.",
+			"el",
+			"itemElement",
+			"d",
+			"p",
+			"chro",
+			"weight",
+			"<h2>",
+			"small",
+			"h3",
+			"33333",
+			"input",
+			"h2",
+			"round",
+			"content",
+			"main",
+			"more",
+			"h1",
+			"333333",
+			"h1",
+			"\"",
+			"red",
+			"logo",
+			"background",
+			".main",
+			"circle",
+			"'",
+			"dood",
+			"animationState",
+			"loopAnimation",
+			"Position",
+			"cube",
+			"();",
+			"cu",
+			"cube",
+			"\"",
+			"0px",
+			"100%",
+			"img",
+			"h1",
+			"100%",
+			"md",
+			"container",
+			"coffee-logo",
+			"md",
+			"col-md",
+			"media",
+			"height",
+			"h1",
+			"slide 1",
+			".container",
+			"carosel",
+			"margin",
+			"width",
+			"%;\n",
+			"map",
+			"first sl",
+			"<p>",
+			"p",
+			"portfolio/",
+			"portfolio",
+			"400",
+			"degrees",
+			"triangle",
+			"300",
+			"-image",
+			"radia",
+			"html",
+			"500",
+			"Time"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-xs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 20896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14635,
+								14635
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4370.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mikefisherportfolio.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 15727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1750.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mikefisherportfolio.sublime-project",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"css",
+				"css/main.css"
+			],
+			[
+				"con",
+				"config.rb"
+			],
+			[
+				"lay",
+				"sass/_layout.scss"
+			],
+			[
+				"nd",
+				"index.html"
+			],
+			[
+				"_st",
+				"sass/_state.scss"
+			],
+			[
+				"fancybox.css",
+				"css/fancybox.css"
+			],
+			[
+				"sc",
+				"/Users/mike/Desktop/ComplexTest/scripts.js"
+			],
+			[
+				"sy",
+				"css/styles.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true
+}
